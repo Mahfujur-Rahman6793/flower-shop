@@ -261,3 +261,33 @@
     padding: 18px 29px;
     font-size: 20px;
 }
+footer{
+    background: #111010;
+    text-align: center;
+}
+.footer-part{
+    padding: 210px 649px 180px;
+}
+.footer-part h3{
+    color: #ffff;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+
+.footer-part h3>span{
+    color: #E55473;
+}
+
+.footer-description{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 32px;
+}
+.rights{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 14px;
+    font-weight: 400;
+}
