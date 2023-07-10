@@ -59,9 +59,10 @@
     margin-top: 128px;
     border-radius: 8px;
     height: 450px;
-    background-image: url('../Assets/pngwing\ 8.png');
+    background-image: url('../Assets/pngwing122.com.png');
+    background-size: 450px 450px;
     background-repeat: no-repeat;
-    background-position: right 200px bottom 100px;
+    background-position: right 100px bottom 100px;
     padding: 100px 0;
     display: flex;
     align-items: center;
@@ -74,6 +75,7 @@
 .welcome-offers h3{
     font-size: 40px;
     margin-bottom: 24px;
+    font-weight: 700;
 }
 .welcome-offers p{
     color: rgb(206, 193, 193);
